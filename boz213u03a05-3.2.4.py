@@ -3,7 +3,7 @@ print(
     """
 +================================+
 | Welcome to my game, muggle!    |
-| Enter an integer nımber        |
+| Enter an integer number        |
 | and guess what I've            |
 | picked for you.                |
 | So, what is the secret number? |
